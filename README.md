@@ -1,10 +1,7 @@
-### Hi there 👋
+👋 Hey there, I'm Neel Kumar Arya!
 
-
-- 🔭 I’m currently working on a Platform for Book Notes
-- 🌱 I’m currently learning New Tech Stack
-- 👯 I’m looking to collaborate on Python and Django
-- 🤔 I’m looking for help in Frontend
-- 📫 How to reach me: http://resume-neel.herokuapp.com/
-
+🔭 I'm a Software Engineer with a passion for building innovative solutions.
+🚀 I specialize in MERN stack and Python development.
+💡 Fun fact: I love exploring new technologies and learning about system design concepts.
+Let's connect and build something awesome together! 🌟
 
